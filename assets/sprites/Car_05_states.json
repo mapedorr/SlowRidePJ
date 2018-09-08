@@ -1,0 +1,25 @@
+{
+  "running": {
+    "anim": {
+      "totalFrames": 2,
+      "frameRate": 5,
+      "repeat": -1
+    },
+    "sound": {
+      "name": "CarEngineLoop_RacingCar",
+      "config": {
+        "volume": 0.4
+      },
+      "play": {
+        "loop": true
+      }
+    }
+  },
+  "stop": {
+    "anim": {
+      "totalFrames": 1,
+      "frameRate": 1,
+      "repeat": 0
+    }
+  }
+}
